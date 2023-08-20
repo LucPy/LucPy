@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 👱‍♂️ Who am I?
-I'm Lucas Alexandre, my homeland is Brazil. I am currently studying Computer Science at university. I had contacts with languages like PHP and JavaScript, however, the language I'm most familiar with is Python. 
+I'm Lucas Alexandre, from Brazil. I am currently studying Computer Science at university. I had contact with languages like PHP and JavaScript, however, the language I'm most familiar with is Python. 
 
 ## 🏃‍♂️ My Hobbies
 
