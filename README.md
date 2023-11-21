@@ -10,7 +10,7 @@ I'm Lucas Alexandre, from Brazil. I am currently studying Computer Science at un
 * 🎶 Music (I don't play anything, but I enjoy listening) 
 
 ## 📊 My stats
-<img src="https://github-readme-stats.vercel.app/api?username=LucPy&show_icons=true&theme=tokyonight" height="180em"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucPy&theme=tokyonight&layout=compact" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lucasalexandreao&show_icons=true&theme=tokyonight" height="180em"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalexandreao&theme=tokyonight&layout=compact" height="180em"/>
 
 <!--
 **LucPy/LucPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
