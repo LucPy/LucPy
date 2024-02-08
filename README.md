@@ -1,14 +1,9 @@
-# Hi there 👋
+# Olá! 👋
 
-## 👱‍♂️ Who am I?
-I'm Lucas Alexandre, from Brazil. I am currently studying Computer Science at university. I have already had contact with languages such as PHP and Javascript in web development, and Swift in mobile app development. However, the language I'm most familiar with is Python, and  I’m currently learning data science.
-## 🏃‍♂️ My Hobbies
+## 👱‍♂️ Quem sou eu?
+Eu sou Lucas Alexandre, from Brazil. Sou estudante de Ciência da Computação na UFERSA. Tive experiência com linguagens como PHP e Javascript no desenvolvimento web, e Swift no desenvolvimento mobile. A linguagem com a qual mais tenho familiaridade é Pyhton, e atualmente estou estudando ciência de dados.
 
-* ⚽ Football (soccer) 
-* 🤓 Math (yes, math is a hobby to me) 
-* 🎶 Music (I don't play anything, but I enjoy listening) 
-
-## 📊 My stats
+## 📊 Minhas estatísticas
 <img src="https://github-readme-stats.vercel.app/api?username=lucasalexandreao&show_icons=true&theme=tokyonight" height="180em"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalexandreao&theme=tokyonight&layout=compact" height="180em"/>
 
 <!--
